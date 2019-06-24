@@ -9,6 +9,8 @@ namespace EsqueletoSQLite.Models
 {
     public class Friend : INotifyPropertyChanged
     {
+
+
         private string _firstName;
         private string _phone;
         private string _email;
